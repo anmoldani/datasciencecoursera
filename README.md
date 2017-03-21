@@ -1,2 +1,3 @@
 # datasciencecoursera
-a very important course for aspiring data scientists.
+Experimenting with git hub.Because i am a novice programmer.
+
